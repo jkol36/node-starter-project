@@ -1,1 +1,1 @@
-import agent from 'bluebird-superagent-promise'
+import agent from 'superagent-bluebird-promise'
