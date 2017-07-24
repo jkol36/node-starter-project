@@ -33,8 +33,13 @@
     "babel-preset-es2016": "^6.24.1",
     "babel-register": "^6.24.1",
     "bluebird": "^3.5.0",
+    "firebase-admin": "^5.0.1",
     "mocha": "^3.4.2",
     "moment": "^2.18.1",
+<<<<<<< HEAD
+=======
+    "momentjs": "^2.0.0",
+>>>>>>> 89244ca9d6e369ecabc6e47999ab94902de52e6a
     "superagent": "^3.5.2",
     "superagent-bluebird-promise": "^4.2.0"
   }
