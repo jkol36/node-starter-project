@@ -34,6 +34,7 @@
     "babel-register": "^6.24.1",
     "bluebird": "^3.5.0",
     "mocha": "^3.4.2",
+    "moment": "^2.18.1",
     "superagent": "^3.5.2",
     "superagent-bluebird-promise": "^4.2.0"
   }
