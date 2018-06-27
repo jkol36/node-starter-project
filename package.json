@@ -4,7 +4,7 @@
   "description": "jon's node project template",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --compilers js:babel-register -t 20000",
+    "test": "mocha --require babel-register -t 20000",
     "start": "node index"
   },
   "repository": {
@@ -26,16 +26,19 @@
     "@babel/core": "^7.0.0-beta.39",
     "@babel/preset-env": "^7.0.0-beta.39",
     "chai": "^3.5.0",
-    "mocha": "^3.4.1"
+    "mocha": "^5.2.0"
   },
   "dependencies": {
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
     "babel-register": "^6.26.0",
-    "bluebird": "^3.5.0",
+    "bluebird": "^3.5.1",
+    "dotenv": "^6.0.0",
     "firebase-admin": "^5.0.1",
-    "mocha": "^3.4.2",
-    "moment": "^2.18.1",
-    "superagent": "^3.5.2",
+    "moment": "^2.2.2",
+    "mongoose": "^5.1.7",
+    "superagent": "^3.8.3",
     "superagent-bluebird-promise": "^4.2.0"
   }
 }
