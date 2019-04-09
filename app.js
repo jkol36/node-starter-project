@@ -1,4 +1,16 @@
 async function f () {
-	return 'this should run'
+	return 'async function works'
 }
-console.log(f())
+
+
+const testPromise = () => {
+	return new Promise((resolve, reject) => {
+		resolve('promises running')
+	})
+}
+
+f()
+.then(console.log)
+
+testPromise()
+.then(console.log)
