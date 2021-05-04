@@ -1,4 +1,2 @@
-async function f () {
-	return 'async function works'
-}
+console.log('hello wordl')
 

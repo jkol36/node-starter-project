@@ -24,16 +24,13 @@
   "homepage": "https://github.com/jko36/node-starter-project#readme",
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.39",
-    "@babel/preset-env": "^7.0.0-beta.39",
+    "@babel/preset-env": "^7.14.1",
     "chai": "^3.5.0",
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "babel-polyfill": "^6.26.0",
+    "@babel/polyfill": "^7.12.1",
     "babel-preset-env": "^1.7",
-    "babel-preset-es2016": "^6.24.1",
-    "babel-preset-es2017": "^6.24.1",
-    "babel-register": "^6.26.0",
     "bluebird": "^3.5.1",
     "dotenv": "^6.0.0",
     "firebase-admin": "^5.0.1",
