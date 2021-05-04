@@ -31,7 +31,6 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "babel-preset-env": "^1.7",
-    "bluebird": "^3.5.1",
     "dotenv": "^6.0.0",
     "firebase-admin": "^5.0.1",
     "moment": "^2.2.2",
