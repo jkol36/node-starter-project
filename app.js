@@ -1,2 +1,2 @@
-console.log('hello wordl')
+import agent from 'superagent-bluebird-promise';
 
