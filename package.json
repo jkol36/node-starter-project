@@ -37,7 +37,7 @@
     "@mux/mux-node": "^3.3.1",
     "dotenv": "^6.0.0",
     "firebase-admin": "^5.0.1",
-    "moment": "^2.2.2",
+    "moment": "^2.29.2",
     "mongoose": "^5.1.7",
     "superagent": "^6.1.0",
     "superagent-bluebird-promise": "^4.2.0"
