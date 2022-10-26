@@ -37,7 +37,7 @@
     "@mux/mux-node": "^3.3.1",
     "ccxt": "^1.91.63",
     "dotenv": "^6.0.0",
-    "firebase-admin": "^5.0.1",
+    "firebase-admin": "^11.2.0",
     "moment": "^2.2.2",
     "mongoose": "^5.1.7",
     "superagent": "^6.1.0",
