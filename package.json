@@ -35,6 +35,7 @@
     "@babel/polyfill": "^7.12.1",
     "@babel/register": "^7.16.7",
     "@mux/mux-node": "^3.3.1",
+    "ccxt": "^1.91.63",
     "dotenv": "^6.0.0",
     "firebase-admin": "^5.0.1",
     "moment": "^2.2.2",
